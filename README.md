@@ -1,5 +1,5 @@
-- 👋 Hala, soy @GM-Fedelopez. Soy parte de un grupo de usuarios de Hattrick que intentaran crear aplicaciones webs basados en <a href="https://www.hattrick.org/">Hattrick</a>. 
-Como Jugeos o Rankings, obteniendo los datos directamente por CHPP, usando PHT <a href="https://github.com/jetwitaussi/PHT">PHT</a>.
+- 👋 Hola, soy Fedelopez y formo parte de un grupo de usuarios de Hattrick que intentaran crear aplicaciones webs basados en <a href="https://www.hattrick.org/">Hattrick</a>. 
+Como Juegos o Rankings, obteniendo los datos directamente por CHPP, usando PHT <a href="https://github.com/jetwitaussi/PHT">PHT</a>.
 
 - 👀 Estamos Interesados en desarrollar lo que sea que los usuarios quieran usar. Así es que, si juegas a algo en los Foros, o en la Federación, basado en los jugadores/partidos/equipos de Hattrick... o quieres hacer un estudio y necesitas juntar datos en particular de algunos partidos de Hattrick solo preguntanos.
 
@@ -18,10 +18,10 @@ GM-Fedelopez/GM-Fedelopez is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m @GM-Fedelopez. I'm part of a group of Hattrick managers that will try to develope web apps based on <a href="https://www.hattrick.org/">Hattrick</a>. 
+- 👋 Hi, I’m Fedelopez, part of a group of Hattrick managers that will try to develope web apps based on <a href="https://www.hattrick.org/">Hattrick</a>. 
 Like games or rankings obtaining data directly by CHPP, using <a href="https://github.com/jetwitaussi/PHT">PHT</a>.
 
-- 👀 I’m interested in develope what ever users like to use. So, if you play any game in HT Forums, or Federation, based on Hattrick Players/Matches/Teams... or you just want to create any study, and need then collect special kind of data form Hattrick Matches then just ask.
+- 👀 We are interested in develope what ever users like to use. So, if you play any game in HT Forums, or Federation, based on Hattrick Players/Matches/Teams... or you just want to create any study, and need then collect special kind of data form Hattrick Matches then just ask.
 
 - 📫 How to reach me ... send me and HT-Mail in Hattrick
 
